@@ -1,1 +1,1 @@
-# responsive-vendiagram
+A responsive Venn diagram using react and tailwind! 
