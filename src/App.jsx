@@ -9,7 +9,7 @@ function App() {
 
   return (
     <div className='w-screen h-screen m-0'>
-<section aria-label="About Air Citi User Experience" className=' bg-off-white  flex align-center justify-center flex-col text-off-white h-full scroll-smooth '>
+<section aria-label="" className=' bg-off-white  flex align-center justify-center flex-col text-off-white h-full scroll-smooth '>
         
         <div className='bg-light-blue p-5 flex-center relative text-center'>
           <h2 className='text-5xl text-white'>Huh?</h2>
